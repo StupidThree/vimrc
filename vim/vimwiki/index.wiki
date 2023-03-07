@@ -1,0 +1,16 @@
+_save: 2023-03-07 00:18:41_
+
+= Vimwiki =
+* [[wn.Diary:diary|Diary]]
+* [[wn.Todo:index|Todo]]
+
+== Study ==
+* [[wn.Study:index|Wiki]]
+* [[wn.PaperNote:index|Paper Note]]
+* [[wn.BookNote:index|Book Note]]
+* [[wn.CourseNote:index|Course Note]]
+
+== Play ==
+* [[wn.Books:index|Books]]
+* [[wn.Movies:index|Movies]]
+* [[wn.Games:index|Games]]
