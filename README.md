@@ -6,7 +6,7 @@
 
 ```
 $HOME
- └─vim
+  └─vim
      ├─setting
      │  ├─function
      │  └─plug
@@ -15,11 +15,11 @@ $HOME
 
 ### dll (for windows)
 ```
-?????
-├─gvim.exe
-├─gvimfullscreen_64.dll
-├─vimtweak64.dll
-└─...
+C:\Program Files\Vim\vim90
+ ├─gvim.exe
+ ├─gvimfullscreen_64.dll
+ ├─vimtweak64.dll
+ └─...
 ```
 
 ## vimrc
