@@ -7,20 +7,20 @@
 ```
 $HOME
   |
-  └─vim
-       ├─setting
-       │  ├─function
-       │  └─plug
-       └─vimwiki
+  └──vim
+       ├──setting
+       │            ├──function
+       │            └──plug
+       └──vimwiki
 ```
 
 ### dll (for windows)
 ```
 ?????
-  ├─gvim
-  ├─gvimfullscreen_64.dll
-  ├─vimtweak64.dll
-  └─...
+  ├──gvim.exe
+  ├──gvimfullscreen_64.dll
+  ├──vimtweak64.dll
+  └──...
 ```
 
 ## vimrc

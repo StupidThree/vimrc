@@ -64,5 +64,4 @@ set splitright			" 水平分割时，新窗口出现在右侧
 set splitbelow			" 垂直分割时，新窗口出现在下册
 set autochdir
 
-set ruler
 set background=dark
