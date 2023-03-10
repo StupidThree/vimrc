@@ -28,10 +28,7 @@ C:\Program Files\Vim\vim90
 source ~/vim/setting/system.vim
 source ~/vim/setting/user0.vim
 source ~/vim/setting/map.vim
-
-filetype on
-set nocompatible
-filetype plugin on
+source ~/vim/setting/folding.vim
 
 call plug#begin('~/.vim/plugged')
 source ~/vim/vimwiki/vimwiki_setting.vim
