@@ -71,3 +71,4 @@ set nocompatible
 filetype plugin on
 
 autocmd BufEnter * if 0 == len(filter(range(1, winnr('$')), 'empty(getbufvar(winbufnr(v:val), "&bt"))')) | qa! | endif
+set fileformats=unix,dos

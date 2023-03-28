@@ -1,5 +1,5 @@
 Plug 'sirver/ultisnips'
-"let g:UltiSnipsSnippetDirectories = [$HOME.'/.vim/UltiSnips']
+let g:UltiSnipsSnippetDirectories = [$HOME.'/vim/setting/plug/UltiSnips']
 "let g:UltiSnipsSnippetDirectories = ['~/.vim/Ultisnips']
 let g:UltiSnipsExpandTrigger = '<tab>'
 let g:UltiSnipsJumpForwardTrigger = '<tab>'

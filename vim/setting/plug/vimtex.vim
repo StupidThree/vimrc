@@ -1,4 +1,4 @@
-Plug 'lervag/vimtex',{'for',:'tex'}
+Plug 'lervag/vimtex',{'for':'tex'}
 let g:vimtex_latexmk_option='-pdf -pdflatex="xelatex -synctex=1 \%S \%O" -verbose -file-line-error -interaction=nonstopmode'
 let g:tex_flavor='latex'
 let g:vimtex_view_method='skim'

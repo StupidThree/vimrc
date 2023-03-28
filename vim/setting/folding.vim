@@ -1,5 +1,5 @@
 autocmd FileType c,cpp set fdm=manual
-autocmd FileType vimwiki setlocal foldmethod=expr | setlocal foldenable | set foldexpr=VimwikiFoldLevelCustom(v:lnum) | set foldlevel=2
+"autocmd FileType vimwiki setlocal foldmethod=expr | setlocal foldenable | set foldexpr=VimwikiFoldLevelCustom(v:lnum) | set foldlevel=2
 autocmd FileType python setlocal foldmethod=indent
 
 function! VimwikiFoldLevelCustom(lnum)
