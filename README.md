@@ -39,6 +39,8 @@ source ~/vim/setting/plug/python.vim
 "source ~/vim/setting/plug/vimtex.vim
 "source ~/vim/setting/plug/ultisnip.vim
 "source ~/vim/setting/plug/calendar.vim
+source ~/vim/setting/plug/ZFVimIM.vim
+let g:zf_git_user_token="xxxxxxxx" " GitHub Token
 call plug#end()
 
 source ~/vim/setting/function/rename.vim
