@@ -6,3 +6,4 @@ Plug 'Yggdroot/indentLine',{ 'for':['c','cpp','python']}
 let g:indentLine_fileType=['c','cpp','python']
 let g:indentLine_color_term=239
 let g:indentLine_char_list=['|']
+"autocmd VimEnter *.py Vexplore
